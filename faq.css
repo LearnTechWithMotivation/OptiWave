@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #fff;
+    background: linear-gradient(to right, #36d1dc, #5b86e5);
+
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.faq {
+    background-color: #100D28;
+
+    padding: 50px;
+}
+
+.faq h1 {
+    text-align: center;
+}
+
+.faq ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.faq li {
+    margin-bottom: 20px;
+}
+
+.faq .question {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.answer{
+    color: white;
+}
